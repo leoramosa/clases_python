@@ -1,8 +1,6 @@
 tienda_santa = {
         "venta_enero": "1444",
-        "venta_febrero": "454554",
-        "venta_marzo": "1458844",
-        "venta_abril": "7774",
+        "venta_febrero": "454554", 
         "venta_mayo": "144554",
         "venta_junio": "14432",
         "venta_julio": "1444",
