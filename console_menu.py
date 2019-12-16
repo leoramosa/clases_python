@@ -3,8 +3,8 @@ from consolemenu import *
 from consolemenu.items import *
 def main():
     # Create the root menu
-    menu = ConsoleMenu("Root Menu", "Supermecado")
-    item1 = MenuItem("Item 1", menu)
+    menu = ConsoleMenu("COMPUTOR S.A.", "PLANILLA DE SALARIOS DE TRABADORES")
+    item1 = MenuItem("Número de trabajores", menu)
     # Create a menu item that calls a function
     function_item = FunctionItem("Fun item", Screen().input, kwargs={"prompt": "Enter an input: "})
     # Create a menu item that calls a system command, based on OS type
